@@ -1,8 +1,8 @@
 <?php
-// file: simpan_data.php (Final - Mengirim Notifikasi Setiap Saat)
+
 include "koneksi.php";
 
-// Konfigurasi Bot Telegram dari file yang Anda unggah
+// Konfigurasi Bot Telegram 
 $botToken = "8100092886:AAHTQOv88ba6jQ59FfnwLdKABCKuJXVlfPs"; 
 $chatId = "@infokualitasudaragor";
 
